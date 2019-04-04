@@ -1,4 +1,4 @@
-## This project is classic ToDo App on modern tech.
+## It is a classic ToDo App project on modern web(frontend) tech.
 ## `React/redux/typescript/koa.`
 ## `Eslint,prettier,husky are keeping my codebase clean and standarted`
 
