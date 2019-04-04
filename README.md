@@ -1,3 +1,11 @@
+## This project is classic ToDo App on modern tech.
+## `React/redux/typescript/koa.`
+## `Eslint,prettier,husky are keeping my codebase clean and standarted`
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
